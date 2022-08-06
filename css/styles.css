@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(to top, #002B5B, #8FE3CF);
+}
+
+.box1 {
+  background-color: #002B5B;
+  width: 65%;
+  height: 30%;
+}
+
+.box2 {
+  background-color: #002B5B;
+  width: 65%;
+  height: 50%;
+}/*# sourceMappingURL=styles.css.map */
